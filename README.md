@@ -4,7 +4,7 @@ The MoviesDatabase API is a comprehensive resource for accessing data about movi
 
 ## API Version
 
-Version 4
+Version 3
 
 ## Available Endpoints
 
